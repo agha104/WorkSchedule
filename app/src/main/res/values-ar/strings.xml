@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorkSchedule</string>
+    <string name="Email">البريد الالكتروني</string>
+    <string name="Name">الاسم الشخصي</string>
+    <string name="Password">كلمة السر</string>
+    <string name="SignUp">تسجيل الدخول</string>
+    <string name="btnLogIn">دخول</string>
+    <string name="btnSignUp">تسجيل الدخول</string>
+    <string name="etEmail">البريد الالكتروني</string>
+    <string name="etPassword">كلمة السر</string>
+    <string name="rePassword">اعادة كلمة السر</string>
+    <string name="repassword">اعادة كلمة السر</string>
+    <string name="logOut">خروج</string>
+    <string name="settings">اعدادات</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WorkSchedule</string>
+    <string name="etEmail">Email</string>
+    <string name="etPassword">Password</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnLogIn">Log In</string>
+    <string name="Email">Email</string>
+    <string name="Name">Name</string>
+    <string name="Password">Password</string>
+    <string name="repassword">repassword</string>
+    <string name="rePassword">rePassword</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="logOut">Log Out</string>
+    <string name="settings">Settings</string>
+</resources>
